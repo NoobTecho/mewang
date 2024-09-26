@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>404 Not Found</title>
+	<title>HI Xm4nXp</title>
 </head>
 <body bgcolor="#1f1f1f" text="#ffffff">
 <link href="" rel="stylesheet" type="text/css">
